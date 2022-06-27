@@ -55,7 +55,8 @@
     - 中文选择`常青版独立安装程序`，英文选择`Evergreen Standalone Installer`。
 
 3. 配置文件
-    1. `Crayfish`依赖的配置是存放在同目录下的`config.toml`文件。它的主要作用是存放第三方接口(选填)。默认的配置文件格式如下:
+    1. `Crayfish`依赖的配置是存放在同目录下的`config.toml`文件。它的主要作用是存放第三方接口(选填)。
+    2. 默认的配置文件格式如下:
     ```toml
    Bing = ''
     Chinaz = ''
@@ -66,7 +67,7 @@
     Censys = ''
    ```
     2. 如果你想要使用第三方接口，你可以在配置文件中添加相应的配置项。对已经支持的第三方服务列表会在下方更新:
-        1. `Bing`
+       - `Bing`
     3. 也可以点击`Crayfish`底部右侧的`配置`按钮，会在当前执行目录下生成`config-example.toml`文件，并且提示你配置文件的路径(要使用这个文件还需重命名为`config.toml`才可生效)，如图:
 
        ![生成默认配置文件](https://github.com/feitu-dev/crayfish/blob/main/images/generate.png "生成默认配置文件")
