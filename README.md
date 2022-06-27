@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">开始</a> •
-  <a href="#key-features">特色</a> •
-  <a href="#credits">声明</a> •
-  <a href="#credits">反馈</a> •
-  <a href="#license">协议</a>
+  <a href="#开始">开始</a> •
+  <a href="#特色">特色</a> •
+  <a href="#声明">声明</a> •
+  <a href="#反馈">反馈</a> •
+  <a href="#协议">协议</a>
 </p>
 
 ---
