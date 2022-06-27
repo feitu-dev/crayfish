@@ -67,6 +67,7 @@
    2. 如果你想要使用第三方接口，你可以在配置文件中添加相应的配置项。对已经支持的第三方服务列表会在下方更新:
       1. `Bing`
    3. 也可以点击`Crayfish`底部右侧的`配置`按钮，会在当前执行目录下生成`config-example.toml`文件，并且提示你配置文件的路径(要使用这个文件还需重命名为`config.toml`才可生效)，如图:
+   
       ![生成默认配置文件](https://github.com/feitu-dev/crayfish/blob/main/images/generate.png "生成默认配置文件")
 
 
