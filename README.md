@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Crayfish
+ 🦞 Crayfish
   <br>
 </h1>
 
