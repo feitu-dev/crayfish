@@ -22,6 +22,8 @@
 
 ---
 
+**`Crayfish`使用了upx压缩，如有防病毒软件报毒，纯属误报。**
+
 ### 开始
 
 `Crayfish`简单易用，你可以通过下载[Releases 版本]("https://github.com/feitu-dev/crayfish/releases")中对应的操作系统执行文件来运行它。
