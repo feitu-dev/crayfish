@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
- 🦞 Crayfish
-  <br>
+  <img src="https://raw.githubusercontent.com/feitu-dev/crayfish/main/images/logo.png" alt="" title="" width="60" height="60" />
+  <br> Crayfish
 </h1>
 
 <h4 align="center">一款力图实现更优美、更快速、更全面的渗透测试信息收集工具。</h4>
@@ -22,11 +22,11 @@
 
 ---
 
-**`Crayfish`使用了upx压缩，如有防病毒软件报毒，纯属误报。**
+**`Crayfish`使用了 upx 压缩，如有防病毒软件报毒，纯属误报。**
 
 ### 开始
 
-`Crayfish`简单易用，你可以通过下载[Releases 版本]("https://github.com/feitu-dev/crayfish/releases")中对应的操作系统执行文件来运行它。
+`Crayfish`简单易用，你可以通过下载[Releases 版本](https://github.com/feitu-dev/crayfish/releases)中对应的操作系统执行文件来运行它。
 
 **Notes:**
 
