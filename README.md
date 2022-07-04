@@ -87,15 +87,11 @@
 
 #### 提交 Issues
 
-- 提交 Issues 可以帮助我们改进`Crayfish`。
-
-#### 微信
-
-- `feitu-dev`
+- 提交 Issues 可以帮助我们在功能及易用性上改进`Crayfish`。
 
 #### 邮箱
 
-- 如果有对`Crayfish`功能上的改进建议，请邮件联系`feitu-dev#outlook.com`
+- 如果有对`Crayfish`的其他建议，请邮件联系`feitu-dev#outlook.com`
 
 #### 鸣谢
 
