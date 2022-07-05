@@ -88,7 +88,7 @@
 
 #### 交流群
 
-![](https://github.com/feitu-dev/crayfish/blob/main/images/w.jpg "")
+<img src="https://raw.githubusercontent.com/feitu-dev/crayfish/main/images/w.jpg" alt="" title="" width="150" height="150" />
 
 
 #### 提交 Issues
