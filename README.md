@@ -51,11 +51,7 @@
 
 ### 使用
 
-1. **Windows 运行依赖**
 
-   - `Windows`平台下的`Crayfish`依赖于`WebView2`，在使用之前需要先行下载并安装。
-   - 👉 [`WebView2`下载地址](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/)
-   - 中文选择`常青版独立安装程序`，英文选择`Evergreen Standalone Installer`。
 
 2. 配置文件
 
