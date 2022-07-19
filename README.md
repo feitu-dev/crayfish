@@ -4,7 +4,7 @@
   <br> Crayfish
 </h1>
 
-<h4 align="center">一款力图实现更优美、更快速、更全面的渗透测试信息收集工具。</h4>
+<h4 align="center">一款力图实现更优美、更快速、更全面的渗透测试一体化工具。</h4>
 
 <p align="center">
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/feitu-dev/crayfish/total?style=for-the-badge">
