@@ -14,7 +14,6 @@
 <p align="center">
   <a href="#开始">开始</a> •
   <a href="#特色">特色</a> •
-  <a href="#使用">使用</a> •
   <a href="#声明">声明</a> •
   <a href="#反馈">反馈</a> •
   <a href="#协议">协议</a>
@@ -22,7 +21,10 @@
 
 ---
 
-**`Crayfish`使用了 upx 压缩，如有防病毒软件报毒，纯属误报。**
+
+🚩 **`Crayfish`使用了 upx 压缩，如有防病毒软件报毒，纯属误报。**
+
+🏁 **[使用手册(更新中)](https://github.com/feitu-dev/crayfish/wiki)**
 
 ### 开始
 
@@ -48,31 +50,6 @@
   - DNS 解析
   - CDN 识别
   - 中间件识别
-
-### 使用
-
-
-
-2. 配置文件
-
-   1. `Crayfish`依赖的配置是存放在同目录下的`config.toml`文件。它的主要作用是存放第三方接口(选填)。
-   2. 默认的配置文件格式如下:
-
-   ```toml
-   Bing = ''
-   Chinaz = ''
-   Zoomeye = ''
-   Github = ''
-   Threatbook = ''
-   Shodan = ''
-   Censys = ''
-   ```
-
-   2. 如果你想要使用第三方接口，你可以在配置文件中添加相应的配置项。对已经支持的第三方服务列表会在下方更新:
-      - `Bing`
-   3. 也可以点击`Crayfish`底部右侧的`配置`按钮，会在当前执行目录下生成`config-example.toml`文件，并且提示你配置文件的路径(要使用这个文件还需重命名为`config.toml`才可生效)，如图:
-
-      ![生成默认配置文件](https://github.com/feitu-dev/crayfish/blob/main/images/generate.gif "生成默认配置文件")
 
 ### 声明
 
