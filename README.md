@@ -14,7 +14,6 @@
 <p align="center">
   <a href="#开始">开始</a> •
   <a href="#特色">特色</a> •
-  <a href="#声明">声明</a> •
   <a href="#反馈">反馈</a> •
   <a href="#协议">协议</a>
 </p>
@@ -26,7 +25,7 @@
 
 🏁 **[使用手册(更新中)](https://github.com/feitu-dev/crayfish/wiki)**
 
-### 开始
+### ▶ 开始
 
 `Crayfish`简单易用，你可以通过下载[Releases 版本](https://github.com/feitu-dev/crayfish/releases)中对应的操作系统执行文件来运行它。
 
@@ -36,43 +35,26 @@
 - 在如`Linux`、`Mac OS`等操作系统上，它可能需要赋予执行权限。
 - 我们正在逐渐构建与测试不同的操作系统支持。
 
-### 特色
 
-> 随 Releases 版本发布更新已实现功能。
-
-- 子域名收集
-  - 子域名枚举
-  - 第三方接口收集
-    - Bing
-  - WebServer 识别
-  - 端口探活
-  - 标题提取
-  - DNS 解析
-  - CDN 识别
-  - 中间件识别
-
-### 声明
+### ❕ 声明
 
 - 使用`Crayfish`的前提是用于安全测试及学习目的，严禁未授权的、非法的对目标进行攻击。
 - `Crayfish`不允许针对任何国家的政府、教育机构、研究机构等受保护的组织进行使用。
 
-### 反馈
+### 💬 反馈
+
+#### 🤓 使用交流
+
+* WeChat : `feitu-dev`
+* Email  : `feitu-dev@outlook.com`
 
 
-#### 交流群
-
-<img src="https://raw.githubusercontent.com/feitu-dev/crayfish/main/images/w.jpg" alt="" title="" width="150" height="150" />
-
-
-#### 提交 Issues
+#### 👨‍💻 提交 Issues
 
 - 提交 Issues 可以帮助我们在功能及易用性上改进`Crayfish`。
 
-#### 邮箱
 
-- 如果有对`Crayfish`的其他建议，请邮件联系`feitu-dev#outlook.com`
-
-#### 鸣谢
+#### 🎖 鸣谢
 
 > 没有这些优秀的项目，`Crayfish`就无法诞生。
 
@@ -81,7 +63,7 @@
 - [protobuf](https://github.com/golang/protobuf)
 - ...
 
-## 协议
+## ✍ 协议
 
 以免损害他人的利益，我们将不会提供任何的软件许可协议。但需注意如下几点:
 
